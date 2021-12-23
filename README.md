@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NGPetrovich
+- 👋 Hi, I’m Nikita!
 - 👀 I’m interested in football and coding
 - 🌱 I’m currently learning React and NodeJS, while being part of the Mediconsult project
 - 💞️ I’m looking to collaborate on innovative football projects
