@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NGPetrovich
 - 👀 I’m interested in football and coding
-- 🌱 I’m currently learning React and NodeJS.
-- 💞️ I’m looking to collaborate on innovative football projects.
+- 🌱 I’m currently learning React and NodeJS, while being part of the Mediconsult project
+- 💞️ I’m looking to collaborate on innovative football projects
 - 📫 How to reach me? -> gonikgroup@gmail.com
