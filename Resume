@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-26T19:40:02.977Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="Bpji75aIMFoa3cj__m3c" version="16.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-26T19:50:03.716Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="233TeAwSL5NQnLFKv_-b" version="16.0.0" type="github">
   <diagram id="kD3u3N3I0M0oyMqrLMRV" name="Page-1">
-    <mxGraphModel dx="870" dy="625" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="870" dy="564" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1079,6 +1079,12 @@
         </mxCell>
         <mxCell id="zak8t-jeJO0ORkIODvtw-283" value="OOP" style="whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="1210" y="2030" width="135" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="GiLtAI2dHX10nwEjn8WA-2" value="" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;labelBackgroundColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="390" width="460" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="GiLtAI2dHX10nwEjn8WA-4" value="&lt;h1&gt;&lt;font style=&quot;font-size: 40px&quot;&gt;KEY PROJECTS:&lt;/font&gt;&lt;/h1&gt;&lt;a href=&quot;https://notes-backend-testing-app.herokuapp.com/&quot; style=&quot;box-sizing: border-box ; outline-width: 0px ; font-size: 16px ; text-align: left&quot;&gt;&lt;font color=&quot;#001933&quot;&gt;https://notes-backend-testing-app.herokuapp.com/&lt;/font&gt;&lt;/a&gt;&lt;p style=&quot;text-align: left&quot;&gt;&lt;a href=&quot;https://nikita-book.herokuapp.com/&quot; style=&quot;box-sizing: border-box ; font-size: 16px&quot;&gt;&lt;font color=&quot;#001933&quot;&gt;https://nikita-book.herokuapp.com/&lt;/font&gt;&lt;/a&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;labelBackgroundColor=#FFFF00;fontSize=30;align=center;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="407.5" width="480" height="340" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
