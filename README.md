@@ -2,8 +2,8 @@
 
 👀 I’m interested in coding and football
 
-🌱 I’m currently learning React and NodeJS, while being part of the Mediconsult project
+🌱 I’m currently learning JAMStack. ...and what I mean by that is: ReactJS, Netlify functions, API configurations, GraphQL (mostly), and Gatsby.
 
-👨‍💻 Link to my CV: https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Resume#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FNGPetrovich%2FNGPetrovich%2Fmain%2FResume
+<a href="https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Resume#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FNGPetrovich%2FNGPetrovich%2Fmain%2FResume"> 👨‍💻 Check my CV from here</a>  
 
-📫 How to reach me? -> nikita_goncharenko@outlook.com
+📫 Reach me out by clicking:<a href="mailto:nikita_goncharenko@outlook.com">nikita_goncharenko@outlook.com </a>
