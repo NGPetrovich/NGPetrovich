@@ -1,16 +1,13 @@
 👋 Hi, I’m Nikita!
 
-👀 I’m interested in coding and football
-
-🌱 I’m currently learning JAMStack ...and what I mean by that is:
+👀 I have some experience in JAM stack, check my websites:
 
 <ul>
-  <li>ReactJS</li>
-  <li>Netlify functions</li>
-  <li>API configurations</li>
-  <li>GraphQL (mostly)</li>
-  <li>and Gatsby.</li>
+  <li>Built with Gatsby: <a href="www.educatedfootball.com">Educated Football</a></li>
+  <li>Built with @11ty: <a href="nikita.educatedfootball.com">Portfolio Website</a></li>
 </ul>
+
+🌱 I’m actively progressing with MERN stack.
 
 <a href="https://viewer.diagrams.net/?tags=%7B%7D&highlight=0000ff&edit=_blank&layers=1&nav=1&title=Resume#Uhttps%3A%2F%2Fraw.githubusercontent.com%2FNGPetrovich%2FNGPetrovich%2Fmain%2FResume"> 👨‍💻 Check my CV from here</a>  
 
