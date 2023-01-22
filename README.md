@@ -3,8 +3,8 @@
 👀 I have some experience in JAM stack, check my websites:
 
 <ul>
-  <li>Built with Gatsby: <a href="www.educatedfootball.com">Educated Football</a></li>
-  <li>Built with @11ty: <a href="nikita.educatedfootball.com">Portfolio Website</a></li>
+  <li>Built with Gatsby: <a href="https://www.educatedfootball.com">Educated Football</a></li>
+  <li>Built with @11ty: <a href="https://nikita.educatedfootball.com">Portfolio Website</a></li>
 </ul>
 
 🌱 I’m actively progressing with MERN stack.
