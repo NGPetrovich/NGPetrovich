@@ -5,9 +5,9 @@
 <ul>
   <li>Built with Gatsby: <a href="https://www.educatedfootball.com">Educated Football</a></li>
   <li>Built with @11ty: <a href="https://nikita.educatedfootball.com">Portfolio Website</a></li>
-  <li>Built with MERN-stack: <a href="https://nikita.educatedfootball.com">Advanced ChatGPT</a></li>
-  <li>Built with NextJS: <a href="https://nikita.educatedfootball.com">AI Aggregator</a></li>
-  <li>Built with Vite: <a href="">Data Analytics App</a></li>
+  <li>Built with MERN-stack: <a href="https://chat-nikita-ef.onrender.com">Advanced ChatGPT</a></li>
+  <li>Built with NextJS: <a href="https://ai-aggregator-omega.vercel.app">AI Aggregator</a></li>
+  <li>Built with Vite: <a href="/">Data Analytics App</a></li>
 </ul>
 
 🌱 Currently in transition from using CSS to using Material UI.
