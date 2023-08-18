@@ -3,7 +3,7 @@
 👀 I have some experience with the JAM-stack. Have a look at websites I've built and continue developing:
 
 <ul>
-  <li>Built with Gatsby: <a href="https://www.educatedfootball.com" target="_blank">Educated Football</a></li>
+  <li>Built with Gatsby: <a  target="_blank" href="https://www.educatedfootball.com">Educated Football</a></li>
   <li>Built with @11ty: <a href="https://nikita.educatedfootball.com" target="_blank">Portfolio Website</a></li>
   <li>Built with Vite: <a href="https://data.educatedfootball.com/" target="_blank">Data Analytics App</a></li>
   <li>Built with MERN-stack: <a href="https://chat-nikita-ef.onrender.com" target="_blank">Advanced ChatGPT</a></li>
